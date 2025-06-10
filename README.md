@@ -1,7 +1,12 @@
-# jackmike9960.github.io
+# 游戏列表
 
 
 
-神啊救救我
 
-https://jackmike9960.github.io/web-mobile/help/
+
+| 名称       | 地址                                                |      |
+| ---------- | --------------------------------------------------- | ---- |
+| 神啊救救我 | [https://jackmike9960.github.io/web-mobile/help/]() |      |
+|            |                                                     |      |
+|            |                                                     |      |
+
