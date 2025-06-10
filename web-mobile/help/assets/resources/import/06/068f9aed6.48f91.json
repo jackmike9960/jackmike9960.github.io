@@ -1,0 +1,1 @@
+[1,["180bd230f"],["_textureSetter"],["cc.SpriteFrame",["cc.AnimationClip",["_name","_duration","curveData"],0]],[[1,0,1,2,4]],[[[[0,"gear_anim",1,{"props":{"angle":[{"frame":0,"value":0},{"frame":1,"value":-360}]}}]],0,0,[],[],[]],[[{"name":"gear","rect":[932,977,36,36],"offset":[0,0],"originalSize":[36,36],"capInsets":[0,0,0,0]}],[0],0,[0],[0],[0]]]]
